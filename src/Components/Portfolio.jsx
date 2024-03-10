@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Dog.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Dog picture";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My blog Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my Website.",
+    url: "https://mayamnaizel.journoportfolio.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Github",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Check out my Github Account!",
+    url: "https://github.com/mayamnaizel",
   },
   {
-    title: "My Resume Site",
+    title: "My LinkedIn",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Check Out my LinkedIn Account",
+    url: "https://www.linkedin.com/in/maya-mnaizel/",
   },
   {
     title: "GitHub Codespaces and github.dev",
